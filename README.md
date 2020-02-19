@@ -9,6 +9,7 @@
    - Part II: Neural language models [(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab03/neural_lm.ipynb)
  - **(06/02/2020) Lab 4:** Part of Speech Tagging [(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab04/POStagging.ipynb)
  - **(13/02/2020) Lab 5:** Parsing. First complete the pen-paper exercises in [(Open pdf)](https://github.com/ImperialNLP/NLPLabs/blob/master/lab05/lab05_ParsingLab_Questions.pdf). Then implement CKY for PCFG in Colab [(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab05/lab05_CKY_for_PCFG.ipynb)
+ - **(20/02/2020) Lab 6:** Machine Translation[(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab06/machine_translation.ipynb)
 
 ## Coursework
 
